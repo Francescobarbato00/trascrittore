@@ -1,0 +1,13 @@
+# Ambiente virtuale
+.venv/
+env/
+
+# Build, dist e output (file grandi)
+build/
+dist/
+output/
+__pycache__/
+*.spec
+*.exe
+*.log
+*.tmp
