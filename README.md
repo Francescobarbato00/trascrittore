@@ -136,5 +136,3 @@ Copia codice
 
 ---
 
-### ✅ Ora per pubblicarlo su GitHub:
-1. Nella root del progetto, crea il file:
