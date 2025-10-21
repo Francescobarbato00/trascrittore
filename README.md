@@ -131,8 +131,3 @@ See the LICENSE file for more details.
 ⭐ If you like this project, consider starring it on GitHub!
 Your support helps improve and maintain future updates.
 
-yaml
-Copia codice
-
----
-
